@@ -1,7 +1,8 @@
 # Barcode Generated Form
 
 ## On Computer
-![Barcode Generated Form](images/main-page.png)
+<img src="./images/main-page.png" alt="main page" width="600"/>
+
 ## On Phone
 <img src="./images/main-page-phone.png" alt="main page" width="200"/>
 
