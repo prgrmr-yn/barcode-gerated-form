@@ -3,7 +3,7 @@
 ## On Computer
 ![Barcode Generated Form](images/main-page.png)
 ## On Phone
-![Barcode Generated Form](images/main-page-phone.png)
+<img src="./images/main-page-phone.png" alt="main page" width="200"/>
 
 ## Overview
 
